@@ -1,7 +1,0 @@
-Marcelo: Wireframe (Modelagem e Design), Construção do Front-End com Bootstrap, Footer em Angular
-Miguel: integração das APIs, Construção do Front-End 
-Gabriel: Back-end com ASP.NET - C#, WebAPI REST, Banco de Dados da API
-
-Tecnologias:
-Front-end: HTML, CSS, JavaScript, Bootstrap, jQuery, Angular, AJAX, Google Charts, Heroku-App
-Back-end: C#, .NET Standard, .NET Core, ASP.NET, API REST, Banco de dados in-memory, Azure cloud hosting
