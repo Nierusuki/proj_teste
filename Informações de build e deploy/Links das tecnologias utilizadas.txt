@@ -8,3 +8,4 @@ Node.JS: https://nodejs.org/en/
 jQuery: https://jquery.com
 Mockflow: https://www.mockflow.com
 AJAX (jQuery docs): https://api.jquery.com/jquery.ajax/
+Git: https://git-scm.com
