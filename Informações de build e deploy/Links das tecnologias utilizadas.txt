@@ -9,3 +9,7 @@ jQuery: https://jquery.com
 Mockflow: https://www.mockflow.com
 AJAX (jQuery docs): https://api.jquery.com/jquery.ajax/
 Git: https://git-scm.com
+
+APIs:
+
+Coronavirus tracker: https://documenter.getpostman.com/view/8854915/SzS7R74n?version=latest
