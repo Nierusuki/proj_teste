@@ -1,0 +1,2 @@
+https://bndes-grupo3-t2.herokuapp.com
+https://api-bndes.azurewebsites.net/api/FaleConosco
